@@ -41,4 +41,4 @@ Make sure **Node.js and npm** are installed on your system.
 
 1. Clone the repository:
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+https://github.com/Adiii001-thkr/sweet-india-admin
