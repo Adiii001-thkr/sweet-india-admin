@@ -6,7 +6,7 @@ The application allows managing sweet items through a clean and responsive web i
 The project is deployed online and can be accessed using the link below.
 
 🔗 **Live Project (Netlify):**  
-YOUR_NETLIFY_LINK_HERE
+https://sweet-india-admin.netlify.app/
 
 ---
 
